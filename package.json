@@ -1,0 +1,1 @@
+{"name":"lifttrack-ai","version":"3.0.0","private":true,"type":"module","scripts":{"dev":"vite","dev:api":"vercel dev","build":"vite build","preview":"vite preview","test":"node --test tests/*.test.js"},"engines":{"node":">=20.19"},"dependencies":{"@neondatabase/serverless":"^1.0.0","react":"^18.3.1","react-dom":"^18.3.1"},"devDependencies":{"vite":"^6.4.0","vercel":"^48.0.0"}}
